@@ -1,0 +1,13 @@
+.services-section {
+    padding: 2rem 0;
+}
+
+.services-section .services-title{
+    font-size: calc(1rem + 0.8vw);
+}
+
+.services-section .card,
+.services-section .card .card-img-top
+{
+    border-radius: 0;
+}

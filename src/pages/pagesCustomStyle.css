@@ -1,0 +1,23 @@
+/* .custom-navbar {
+    background-color: dimgray;
+} */
+
+.firmPage-section ,
+.contactUs-section  {
+    padding-top: 2.9rem;
+    margin-bottom: 3.5rem;
+}
+
+.firmPage-section .ms-bg-image-banner .banner-title,
+.contactUs-section .ms-bg-image-banner .banner-title {
+    padding: 10rem 0;
+}
+
+.contactUs-section .contacts-mid-section {
+    margin-bottom: 2rem;
+}
+
+.contactUs-section .info-value {
+    color: #0077ad;
+    font-weight: bold;
+}

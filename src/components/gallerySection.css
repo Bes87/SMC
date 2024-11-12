@@ -1,0 +1,24 @@
+.gallery-section {
+    background-image: url("https://images.wallpaperscraft.com/image/single/bw_building_minimalism_161365_2048x1152.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem 0 4rem;
+}
+
+.gallery-section.gallery-page {
+    padding: calc(3.5rem + 1vw);
+}
+
+.gallery-section .gallery-section-title {
+    font-size: calc(1rem + 0.8vw);
+    text-transform: uppercase;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 320px) {
+    .gallery-section.gallery-page {
+        padding: 2.5em calc(1rem + 1vw);
+    }
+}

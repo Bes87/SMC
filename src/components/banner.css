@@ -1,0 +1,20 @@
+.bg-image-banner {
+    background-image: url("https://media-exp1.licdn.com/dms/image/C511BAQEiNYhFD12LDw/company-background_10000/0/1518845380326?e=2159024400&v=beta&t=fR7l_rD25JDftEmo4xT3DvZXFspzPvd73VfCEp1nhH0");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-image-banner .banner-title{
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 4rem;
+    padding: 13rem 0 0 0;
+    font-size: calc(1rem + 2.5vw);
+}
+
+.bg-image-banner .banner-content{
+    color: #eeeeee;
+    padding: 0 0 11rem 0;
+    font-size: calc(0.8rem + 1vw);
+}

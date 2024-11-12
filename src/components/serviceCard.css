@@ -1,0 +1,18 @@
+.card-title {
+    font-size: calc(0.8rem + 0.3vw);
+}
+
+.card-content {
+    font-size: calc(0.6rem + 0.3vw);
+}
+
+.card {
+    border: none;
+}
+
+.card img {
+    float: left;
+    max-height: 100px;
+    object-fit: cover;
+    border-color: #edcd1f;
+}
