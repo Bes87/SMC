@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/SMC/static/css/main.452eb8ae.css",
+    "main.js": "/SMC/static/js/main.4720b8e6.js",
+    "static/js/453.0a85438e.chunk.js": "/SMC/static/js/453.0a85438e.chunk.js",
+    "static/media/SM-iconSpec.png": "/SMC/static/media/SM-iconSpec.a3fd8d791e36c7340ef3.png",
+    "static/media/SM-logo2Round.png": "/SMC/static/media/SM-logo2Round.deba8fc74d1a8ea75a4c.png",
+    "static/media/SM-name.png": "/SMC/static/media/SM-name.4815d1a7121e15ed0a1f.png",
+    "index.html": "/SMC/index.html",
+    "main.452eb8ae.css.map": "/SMC/static/css/main.452eb8ae.css.map",
+    "main.4720b8e6.js.map": "/SMC/static/js/main.4720b8e6.js.map",
+    "453.0a85438e.chunk.js.map": "/SMC/static/js/453.0a85438e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.452eb8ae.css",
+    "static/js/main.4720b8e6.js"
+  ]
+}
