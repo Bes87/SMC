@@ -22,22 +22,22 @@ export const appContent = {
                 {
                     title: "COSTRUZIONI",
                     description: "Costruzione di edifici ad uso civile, industriale, commerciale. Esecuzione lavori in muratura e altre tecniche costruttive di ultima generazione. Operiamo in tutto il territorio regionale e in particolar modo nella Città metropolitana di Cagliari e nel Sud Sardegna.",
-                    img: "/media/Gallery12.jpg"
+                    img: "/SMC/media/Gallery12.jpg"
                 },
                 {
                     title: "RISTRUTTURAZIONI e DEMOLIZIONI",
                     description: "Eseguiamo lavori di ristrutturazione immobili ed efficiantamento energetico su svariate tipologie di immobile: case campidanesi, appartamenti, case a schiera ville e villette. Particolare esperienza nell'esecuzione di lavori di ristrutturazione presso immobili situati in centro storico protetto da vincoli paesaggistici.",
-                    img: "/media/Gallery4.jpg"
+                    img: "/SMC/media/Gallery4.jpg"
                 },
                 {
                     title: "RIFINITURE ESTERNI/INTERNI",
                     description: "Eseguiamo lavori di rifinirua sia degli interni che degli esterni con materiali di ultima generazione. Eseguiamo la rifinitura di pavimenti, tetti e rivestimenti. Siamo vicini ai temi ambientali e adoperiamo materiali eco sostenibili di ultima generazione quali mattoni in sughero e legno. Eseguiamo progettazione e realizazzione bagni.",
-                    img: "/media/Gallery1.jpg"
+                    img: "/SMC/media/Gallery1.jpg"
                 },
                 {
                     title: "MANUTENZIONE",
                     description: "Effettuiamo lavori di manutenzione ordinaria, rifacimento della facciata, controllo grondaie e lavori di impermeabilizzazione.",
-                    img: "/media/Gallery6.jpg"
+                    img: "/SMC/media/Gallery6.jpg"
                 }
             ]
         }

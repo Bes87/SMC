@@ -1,5 +1,6 @@
 .ms-bg-image-banner {
-    background-image: url("https://www.attitudepm.it/wp-content/uploads/2023/02/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJjb25zdHJ1Y3Rpb25faGVsbWV0XzExNDYyODUtaW1hZ2Uta3liZHl5MnUuanBn.jpg");
+    /* background-image: url("https://www.attitudepm.it/wp-content/uploads/2023/02/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJjb25zdHJ1Y3Rpb25faGVsbWV0XzExNDYyODUtaW1hZ2Uta3liZHl5MnUuanBn.jpg"); */
+    background-image: url("../../public/media/basesite/site3.png");
     background-color: #cccccc;
     background-repeat: no-repeat;
     background-size: cover;
@@ -14,7 +15,7 @@
 }
 
 .ms-bg-image-banner .container{
-    padding: 3rem 0;
+    padding: 3rem 0; 
 }
 
 .ms-bg-image-banner .banner-content{

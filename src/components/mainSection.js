@@ -20,11 +20,13 @@ class MainSection extends React.Component {
             <Container fluid>
                 <Banner content={appContent.homePage.mainBanner}/>
                 <ServicesSection title={appContent.homePage.servicesSection.title} services={appContent.homePage.servicesSection.services}/>
-                <Divider color="#edcd1f" />
+                <Divider color="#b92727" />
                 <MessageBanner message={appContent.homePage.infoBanner.title} version="ms-bg-no-image-banner"/>
-                <Divider color="#edcd1f" />
+                <Divider color="#b92727" />
                 <GallerySection page="Main" />
-                <MessageBanner message={appContent.homePage.contactBanner.title} link="/contactUs" version="ms-bg-image-banner"/>
+                <Divider color="#b92727" />
+                <MessageBanner message={appContent.homePage.contactBanner.title} link="/SMC/contactUs" version="ms-bg-no-image-banner"/>
+                <Divider color="#b92727" />
             </Container>
         </div>
         );

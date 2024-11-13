@@ -18,11 +18,11 @@ import GalleryPage from './pages/galleryPage';
 ReactDOM.render(
   <BrowserRouter>
     <Routes>
-      <Route exact path="/" element={<App />} >
+      <Route exact path="/SMC/" element={<App />} >
         <Route index element={<MainSection />} />
-        <Route path="/firmPage" element={<FirmPage />} />
-        <Route path="/contactUs" element={<ContactUsPage />} />
-        <Route path="/gallery" element={<GalleryPage />} />
+        <Route path="/SMC/firmPage" element={<FirmPage />} />
+        <Route path="/SMC/contactUs" element={<ContactUsPage />} />
+        <Route path="/SMC/gallery" element={<GalleryPage />} />
         <Route
           path="*"
           element={

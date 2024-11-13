@@ -50,7 +50,8 @@
   font-weight: lighter;
   /* margin-right: calc(3rem + 1vw); */
   font-size: calc(0.8rem + 0.8vw) !important;
-  max-width: 12em;
+  /* max-width: 12em; logo1 version */
+  max-width: 7em; 
   /* filter: greyscale(1) invert(1); */
 }
 
@@ -71,7 +72,8 @@
 }
 
 .custom-navbar .navbar-nav {
-  margin-left: 4rem;
+  /* margin-left: 4rem; logo1 version  */
+    margin-left: 30rem;
 }
 
 @media screen and (max-width: 991px) {

@@ -24,7 +24,7 @@ function GallerySection(props) {
     return (
       <div className={props.page === "Main" ? "gallery-section" : "gallery-section gallery-page"}>
         <Container fluid={props.page === "Main" ? false : true}>
-            <h3 className="gallery-section-title text-start"><Link className="gallery-section-title text-start" to="/gallery">{appContent.homePage.ourWorkSection.title}</Link></h3>
+            <h3 className="gallery-section-title text-start"><Link className="gallery-section-title text-start" to="/SMC/gallery">{appContent.homePage.ourWorkSection.title}</Link></h3>
             <Gallery photos={props.page === "Main" ? photos.slice(0,7) : photos} onClick={openLightbox} />
             <ModalGateway>
             {viewerIsOpen ? (

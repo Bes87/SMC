@@ -1,5 +1,7 @@
 .gallery-section {
-    background-image: url("https://images.wallpaperscraft.com/image/single/bw_building_minimalism_161365_2048x1152.jpg");
+    /* background-image: url("https://images.wallpaperscraft.com/image/single/bw_building_minimalism_161365_2048x1152.jpg"); */
+    background-image: url("../../public/media/basesite/site5.png");
+    background-blend-mode: overlay;
     background-color: #cccccc;
     background-repeat: no-repeat;
     background-size: cover;
